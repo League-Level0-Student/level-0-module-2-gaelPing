@@ -16,7 +16,7 @@ public class Validation {
 		
 		System.out.println(randomNumber);
 
-		// 1. Use each value of randomNumber to give the user a random compliment.
+		
 if (randomNumber==1) {JOptionPane.showMessageDialog(null, "you are beautiful");}
 if (randomNumber==2) {JOptionPane.showMessageDialog(null, "you are amazeing");}
 if (randomNumber==3) {JOptionPane.showMessageDialog(null, "you are wonderfull");}

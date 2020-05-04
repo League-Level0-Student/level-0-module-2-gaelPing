@@ -12,7 +12,10 @@ public class Magic8Ball {
 
 	// 2. Make a variable that will hold a random number and put a random number
 	//    into this variable using "new Random().nextInt(4)"
-
+	Random mega=new Random();
+	
+	
+	mega.nextInt(4)
 	// 3. Print out this variable
 
 	// 4. Get the user to enter a question for the 8 ball
