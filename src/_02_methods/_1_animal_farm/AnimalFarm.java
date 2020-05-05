@@ -20,6 +20,9 @@ public class AnimalFarm {
 			
 		/* 2. Make it so that the user can keep entering new animals. */
 
+	JOptionPane.showInputDialog("what animal do you want");
+	if ("cow" != null) { 
+	}
 	}
 
 	static void playMoo() {

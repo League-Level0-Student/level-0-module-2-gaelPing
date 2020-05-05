@@ -23,7 +23,7 @@ public class SafeCracker {
 		 * combinations
 		 */
 		
-
+JOptionPane.showInputDialog(null, "what is the password?"); 
 	}
 
 	static void tryCode(int guess) {
